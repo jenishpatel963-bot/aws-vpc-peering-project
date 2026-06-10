@@ -8,7 +8,7 @@ This project demonstrates how to establish communication between two AWS VPCs us
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](architecture/aws-vpc-peering-diagram.svg)
+![Architecture Diagram](aws_vpc_peering_architecture.svg)
 
 ---
 
@@ -52,13 +52,13 @@ This project demonstrates how to establish communication between two AWS VPCs us
 ## 📸 Screenshots
 
 ### VPC Peering Connection
-![VPC Peering](screenshots/vpc-peering-active.png)
+![VPC Peering](Screenshot 2026-06-09 235057.png)
 
 ### Route Table Configuration
-![Route Table](screenshots/route-table-vpc1.png)
+![Route Table](Screenshot 2026-06-09 234955.png)
 
 ### Connectivity Test
-![Ping Success](screenshots/ping-success.png)
+![Ping Success](Screenshot 2026-06-09 235327.png)
 
 ---
 
