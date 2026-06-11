@@ -86,6 +86,6 @@ Successfully established communication between EC2 instances located in differen
 
 ## 👨‍💻 Author
 
-**Jenish Patel**
+**JenishRai Patel**
 
 Cloud & DevOps Enthusiast ☁️
